@@ -6,7 +6,7 @@
 
 ### 💼 Who Am I?
 
-I'm a passionate technologist and the CTO at [Stralya](https://stralya.com), where I lead teams in building innovative, user-focused digital solutions. My expertise lies in architecting and delivering custom web applications, e-commerce platforms, and next-generation websites that help businesses thrive in the digital age.
+I'm a passionate technologist and the CTO at [Stralya]([https://stralya.com](https://github.com/stralya-company)), where I lead teams in building innovative, user-focused digital solutions. My expertise lies in architecting and delivering custom web applications, e-commerce platforms, and next-generation websites that help businesses thrive in the digital age.
 
 ---
 
@@ -14,7 +14,7 @@ I'm a passionate technologist and the CTO at [Stralya](https://stralya.com), whe
 
 - **Web Development:** Custom websites, webapps, and robust e-commerce solutions tailored to your needs.
 - **Mobile Apps:** Specializing in web and hybrid mobile app development (not native), ensuring seamless cross-device experiences.
-- **CMS Creation:** Creator of [Klickbee CMS](#), a flexible and scalable content management system.
+- **CMS Creation:** Creator of [Klickbee CMS](https://github.com/stralya-company/klickbee-cms), a flexible and scalable content management system.
 - **Full Project Lifecycle:** From ideation, architecture, and UI/UX, to deployment and ongoing support.
 - **Technical Leadership:** Building and mentoring high-performing engineering teams with a friendly, open culture.
 
